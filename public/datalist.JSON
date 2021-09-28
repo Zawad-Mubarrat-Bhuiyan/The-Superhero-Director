@@ -1,0 +1,119 @@
+[
+    {
+        "key": "001",
+        "name": "Joe Biden",
+        "year": "2021 - Present",
+        "age": "78",
+        "position": "46th",
+        "salary": "150000",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/6/68/Joe_Biden_presidential_portrait.jpg"
+    },
+    {
+        "key": "002",
+        "name": "Donald Trump",
+        "year": "2017 - 2021",
+        "age": "75",
+        "position": "45th",
+        "salary": "140000",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Donald_Trump_official_portrait.jpg/240px-Donald_Trump_official_portrait.jpg"
+    },
+    {
+        "key": "003",
+        "name": "Barack Obama",
+        "year": "2009 - 2017",
+        "age": "60",
+        "position": "44th",
+        "salary": "130000",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/President_Barack_Obama_%28cropped%29_4.jpg/240px-President_Barack_Obama_%28cropped%29_4.jpg"
+    },
+    {
+        "key": "004",
+        "name": "George W.Bush",
+        "year": "2001 - 2009",
+        "age": "75",
+        "position": "43rd",
+        "salary": "120000",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/George-W-Bush.jpeg/240px-George-W-Bush.jpeg"
+    },
+    {
+        "key": "005",
+        "name": "Bill Clinton",
+        "year": "1993 - 2001",
+        "age": "75",
+        "position": "42nd",
+        "salary": "110000",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Bill_Clinton.jpg/240px-Bill_Clinton.jpg"
+    },
+    {
+        "key": "006",
+        "name": "George H.W.Bush",
+        "year": "1989 - 1993",
+        "age": "94",
+        "position": "41st",
+        "salary": "100000",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/George_H._W._Bush_presidential_portrait_%28cropped%29.jpg/240px-George_H._W._Bush_presidential_portrait_%28cropped%29.jpg"
+    },
+    {
+        "key": "007",
+        "name": "Ronald Reagan",
+        "year": "1981 - 1989",
+        "age": "93",
+        "position": "40th",
+        "salary": "90000",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Portrait_of_President_Reagan_1981.jpg/248px-Official_Portrait_of_President_Reagan_1981.jpg"
+    },
+    {
+        "key": "008",
+        "name": "Jimmy Carter",
+        "year": "1977 - 1981",
+        "age": "96",
+        "position": "39th",
+        "salary": "80000",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/JimmyCarterPortrait2.jpg/240px-JimmyCarterPortrait2.jpg"
+    },
+    {
+        "key": "009",
+        "name": "Gerald Ford",
+        "year": "1974 - 1977",
+        "age": "93",
+        "position": "38th",
+        "salary": "70000",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Gerald_Ford_presidential_portrait.jpg/240px-Gerald_Ford_presidential_portrait.jpg"
+    },
+    {
+        "key": "010",
+        "name": "Richard Nixon",
+        "year": "1969 - 1974",
+        "age": "81",
+        "position": "36th",
+        "salary": "60000",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Richard_Nixon_presidential_portrait_%281%29.jpg/240px-Richard_Nixon_presidential_portrait_%281%29.jpg"
+    },
+    {
+        "key": "011",
+        "name": "Lyndon B.Johnson",
+        "year": "1963 - 1969",
+        "age": "64",
+        "position": "37th",
+        "salary": "50000",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/37_Lyndon_Johnson_3x4.jpg/240px-37_Lyndon_Johnson_3x4.jpg"
+    },
+    {
+        "key": "012",
+        "name": "John F.Kennedy",
+        "year": "1961 - 1963",
+        "age": "46",
+        "position": "35th",
+        "salary": "40000",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/John_F._Kennedy%2C_White_House_color_photo_portrait.jpg/240px-John_F._Kennedy%2C_White_House_color_photo_portrait.jpg"
+    },
+    {
+        "key": "013",
+        "name": "Dwight D.Eisenhower",
+        "year": "1953 - 1961",
+        "age": "78",
+        "position": "34th",
+        "salary": "30000",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Dwight_D._Eisenhower%2C_official_photo_portrait%2C_May_29%2C_1959.jpg/240px-Dwight_D._Eisenhower%2C_official_photo_portrait%2C_May_29%2C_1959.jpg"
+    }
+]
